@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Your Age Details</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="selection_date_calender">To get your age calculated, just select your birthday by clicking the calender icon.</string>
+    <string name="calcuate_age">Select Age</string>
+    <string name="_02_04_1996">02/04/1996</string>
+    <string name="selected_birthday">Selected Birthday</string>
+    <string name="total_minutes">Total Minutes</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="_1_000">1,000</string>
+    <string name="total_days">Total Days</string>
+    <string name="_200_000">200,000</string>
+    <string name="_1440">1440</string>
+</resources>
